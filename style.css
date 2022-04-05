@@ -1,0 +1,38 @@
+h4{
+    letter-spacing: 4px;
+    color: red;
+}
+
+.vs{
+    letter-spacing: 3px;
+    color: red;
+}
+
+.test_image_and_result{
+    background-color: grey;
+    box-shadow: 10px 15px lightgray;
+    border-radius: 10px;
+    margin-left: 170px;
+    margin-top: 70px;
+}
+
+#Output_id{
+    background-color: white;
+    border-radius: 10px;
+    color: red;
+    letter-spacing: 3px;
+    line-height: 40px;
+}
+
+.copy_right_footer{
+    line-height: 60px;
+    background-color: grey;
+    color: white;
+    position: fixed;
+    width:20%;
+    bottom: 50px;
+}
+
+.mini_result{
+    padding: 30px;
+}
